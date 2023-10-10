@@ -1,6 +1,3 @@
-# data-512-homework_1
-Anish Dixit code and submissions for DATA 512 Assignment 1
-
 # Goal of the Project
 
 In this project, I try to acquire data relating to Wikipedia article searches for some popular Academy Award winning movies. I also try to visualize some important metrics corresponding to the timeseries data. The aim is to understand the popularity of movies across different eras or years and how it waned or waxed across time.
